@@ -41,7 +41,7 @@ else if (liriCommand === "do-what-it-says") {
 
 // spotify-this-song
 function spotifySong(song) {
-    var search = "";
+    var search;
     // if no song is provided then default to "The Sign" by Ace of Base
     if (song === "") {
         search = "The Sign Ace of Base";
@@ -51,7 +51,7 @@ function spotifySong(song) {
         search = song;
     }
 
-    spotify.search({ type: 'track', query: song, limit: 3 }, function (err, data) {
+    spotify.search({ type: 'track', query: search, limit: 3 }, function (err, data) {
         if (err) {
             return console.log("Error occurred: " + err);
         }
