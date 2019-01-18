@@ -1,7 +1,7 @@
 # Week 10 Homework: liri-node-app
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 ## User Application Flow
-![spotify-this-song](spotify-this-song.jpg?raw=true "Title")
+![spotify-this-song](./images/spotify-this-song.jpg?raw=true "Title")
 ### Prerequisites
 * Installed web browser (e.g. Chrome, Internet Explorer, Safari, etc.)
 ## Built With
