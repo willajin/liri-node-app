@@ -4,7 +4,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 Enter LIRI command "spotify-this-song" and song title to search for information about the relevant songs and artists.
 ![spotify-this-song](/images/spotify-this-song.JPG?raw=true)
 
-Enter LIRI command "spotify-this-song" without a song title and the default search will be "I Want It That Way".
+Enter LIRI command "spotify-this-song" without a song title and the default search will be "The Sign" by Ace of Base.
 ![spotify-this-song_blank](/images/spotify-this-song_blank.JPG?raw=true)
 
 Enter LIRI command "movie-this" and movie title to search for information about the movie.
