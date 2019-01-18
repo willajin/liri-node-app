@@ -2,7 +2,7 @@
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 ## User Application Flow
 Enter LIRI command "spotify-this-song" and song title to search for information about the relevant songs and artists.
-![spotify-this-song](/images/spotify-this-song.jpg?raw=true)
+![spotify-this-song](/images/spotify-this-song.JPG?raw=true)
 
 Enter LIRI command "spotify-this-song" without a song title and the default search will be "I want It That Way".
 ![spotify-this-song_blank](/images/spotify-this-song_blank.jpg?raw=true)
